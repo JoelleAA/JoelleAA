@@ -1,13 +1,16 @@
-- 👋 Hi, I’m @JoelleAA
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Bonjour! 
 
-<!---
-JoelleAA/JoelleAA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Je m'appele Joëlle Saideh. 
+Je suis en Master 1 CEN à l'Université Paris8.
+Et ici, vous trouverez mes exercices de Data Desing! ^^
 
-site web : 
-https://joelleaa.github.io/JoelleAA/ 
+site web : https://joelleaa.github.io/JoelleAA/
+
+
+
+
+
+
+
+
+
